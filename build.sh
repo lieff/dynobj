@@ -1,0 +1,1 @@
+i686-w64-mingw32-gcc -static -O2 codelib.cpp symdump.cpp -o symdump.exe -lstdc++ -limagehlp
